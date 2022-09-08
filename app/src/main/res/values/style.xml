@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="editTextStyle">@style/EditTextStyle</item>
+    </style>
+    <style name="EditTextStyle" parent="android:Widget.EditText">
+        <item name="android:background">@drawable/border_input</item>
+    </style>
+
+</resources>

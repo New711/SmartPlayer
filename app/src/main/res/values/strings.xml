@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">妙手音乐</string>
+    <string name="Title">妙手音乐</string>
+    <string name="Personal">个人中心</string>
+    <string name="Player">播放器</string>
+    <string name="Setting">设置</string>
+    <string name="CameraIP">摄像头IP地址:</string>
+    <string name="CameraIPPrompt">(摄像头ip为空时选用USB摄像头)</string>
+    <string name="InputCameraIPPrompt">请输入摄像头IP地址</string>
+    <string name="CameraPort">摄像头端口号:</string>
+    <string name="InputCameraPortPrompt">请输入摄像头端口号</string>
+    <string name="CameraUserName">摄像头用户名:</string>
+    <string name="InputCameraUserPrompt">请设置摄像头用户名</string>
+    <string name="CameraPassWord">摄像头密码:</string>
+    <string name="InputCameraPassWordPrompt">请设置摄像头密码</string>
+    <string name="CameraProtocol">摄像头协议类型:</string>
+    <string name="InputCameraProtocolPrompt">请设置摄像头协议类型</string>
+    <string name="CameraURL">摄像头URL:</string>
+    <string name="InputCameraURLPrompt">请设置摄像头URL</string>
+    <string name="submit">确定</string>
+    <string name="UserName">用户名:</string>
+    <string name="MyUserName">张三</string>
+    <string name="SongNumber">序号</string>
+    <string name="Song">歌曲</string>
+    <string name="Singer">歌手</string>
+    <string name="SongTime">时长</string>
+    <string name="Play">播放</string>
+    <string name="Pause">暂停</string>
+    <string name="Back">下一首</string>
+    <string name="Forward">上一首</string>
+    <string name="VolumeMax">音量加</string>
+    <string name="VolumeMin">音量减</string>
+    <string name="Mute">静音</string>
+    <string name="ServerIP">服务器IP地址:</string>
+    <string name="InputServerIPPrompt">请输入服务器IP地址</string>
+    <string name="ServerPort">服务器端口号:</string>
+    <string name="InputServerPortPrompt">请输入服务器端口号</string>
+    <string name="HelpText">帮助说明</string>
+    <string name="ServerHelp">服务器配置步骤如下：</string>
+    <string name="ServerHelp1">1.	点击设置</string>
+    <string name="ServerHelp2">2.	选择服务器配置</string>
+    <string name="ServerHelp3">3.	填写服务器IP地址</string>
+    <string name="ServerHelp4">4.	填写服务器端口号</string>
+    <string name="ServerHelp5">5.	点击确定即可完成配置</string>
+    <string name="CameraHelp">摄像头配置步骤如下：</string>
+    <string name="CameraHelp1">1.	点击设置</string>
+    <string name="CameraHelp2">2.	选择摄像头</string>
+    <string name="CameraHelp3">3.	填写摄像头IP地址</string>
+    <string name="CameraHelp4">4.	填写摄像头端口号</string>
+    <string name="CameraHelp5">5.	填写摄像头用户名和密码</string>
+    <string name="CameraHelp6">6.	设置摄像头协议（http,rtsp）</string>
+    <string name="CameraHelp7">7.	输入摄像头URL</string>
+    <string name="CameraHelp8">8.	点击确定即可完成配置</string>
+    <string name="GestureHelp">手势相关操作如下：</string>
+    <string name="PlayAndPause">暂停/播放 </string>
+    <string name="MuteAndRecover">静音/恢复声音</string>
+    <string name="MattersNeedAttention">注意：在使用手势播放器时需要手势对准手机摄像头，系统即可对该手势做出判断响应。</string>
+    <string name="Chinese" translatable="false">中文</string>
+    <string name="English" translatable="false">英语</string>
+    <string name="Server" translatable="false">服务器</string>
+    <string name="CameraSettings" translatable="false">摄像头设置</string>
+    <string name="CameraManagement">摄像头管理</string>
+    <string name="Help" translatable="false">帮助</string>
+    <string name="Language" translatable="false">语言</string>
+    <string name="GesturePrompt">未检测到人手...</string>
+    <string name="DefaultGestrue">方向:无 手指数:N</string>
+    <string name="DirectionUpper">方向:向上</string>
+    <string name="DirectionRight">方向:向右</string>
+    <string name="DirectionLeft">方向:向左</string>
+    <string name="DirectionRightUpper">方向:右上</string>
+    <string name="DirectionLeftUpper">方向:左上</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

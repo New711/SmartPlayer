@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/layout_full"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/layout_vertical"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        style="@style/layout_vertical"
+        android:layout_weight="2"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/cameraBack"
+            style="@style/layout_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="后置摄像头" />
+
+        <TextView
+            android:id="@+id/cameraFront"
+            style="@style/layout_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="前置摄像头" />
+
+        <TextView
+            android:id="@+id/cameraExternal"
+            style="@style/layout_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textSize="30sp"
+            android:text="外部摄像头" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/layout_vertical"
+        android:layout_weight="1" />
+</LinearLayout>
